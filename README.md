@@ -4,3 +4,4 @@
 2.close all
 3.open all
 4.all all
+5.open all and close
