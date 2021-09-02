@@ -5,3 +5,4 @@
 3.open all
 4.all all
 5.open all and close
+6.add from web
